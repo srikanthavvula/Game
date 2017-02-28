@@ -1,2 +1,0 @@
-# Game
-My First Game
